@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: SDStools
-Version: 0.1.1
+Version: 0.1.2
 Summary: Senior Data Structure Tools.
 Home-page: https://github.com/shubihu/SDStools
 Author: Yahaha
@@ -8,7 +8,7 @@ Author-email: jrwjb@sina.com
 License: MIT
 Description: 
         Senior Data Structure Tools
-        -- linkedlist
+        * linkedlist
 Platform: UNKNOWN
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Programming Language :: Python
