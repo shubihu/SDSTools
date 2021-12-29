@@ -1,6 +1,0 @@
-README.md
-setup.py
-SDStools.egg-info/PKG-INFO
-SDStools.egg-info/SOURCES.txt
-SDStools.egg-info/dependency_links.txt
-SDStools.egg-info/top_level.txt
