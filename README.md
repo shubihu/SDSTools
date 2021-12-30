@@ -1,9 +1,11 @@
 Senior Data Structure Tools--SDStools
 
+python标准库中没有链表、树、图等高级数据结构，所以整理了一些网上的代码到这个库中。仅供学习。
+
 ##### linkedlist
-###### LinkList           ## 单向链表
-###### SinCycLinkList     ## 单向循环链表
-###### TwoWayLinkList     ## 双向链表
+* LinkList           ## 单向链表
+* SinCycLinkList     ## 单向循环链表
+* TwoWayLinkList     ## 双向链表
 
 Usage:
 
