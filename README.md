@@ -7,7 +7,10 @@ python标准库中没有链表、树、图等高级数据结构，所以整理�
 * SinCycLinkList     ## 单向循环链表
 * TwoWayLinkList     ## 双向链表
 
-Usage:
+##### tree
+* Binary Tree        # 二叉树
+
+Install & Usage:
 
 ```
 pip install SDStools

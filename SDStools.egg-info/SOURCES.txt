@@ -1,4 +1,5 @@
 README.md
+README.rst
 setup.py
 SDStools/__init__.py
 SDStools.egg-info/PKG-INFO
@@ -9,3 +10,5 @@ SDStools/linkedlist/LinkList.py
 SDStools/linkedlist/SinCycLinkList.py
 SDStools/linkedlist/TwoWayLinkList.py
 SDStools/linkedlist/__init__.py
+SDStools/tree/BinaryTree.py
+SDStools/tree/__init__.py
